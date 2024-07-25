@@ -1,7 +1,7 @@
 # Neural Network Visualization
 Open visual.html to observe the training process of this simple MLP network, and how it makes the samples linearly separable through nonlinear transformations. 
 
-![image-20240725184451015](C:\Users\13061\AppData\Roaming\Typora\typora-user-images\image-20240725184451015.png)
+![image-20240725184451015](./README.assets/image-20240725184451015.png)
 
 Details: 
 
